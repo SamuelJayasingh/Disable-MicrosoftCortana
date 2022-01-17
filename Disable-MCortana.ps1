@@ -12,7 +12,7 @@ Function DisableCortana
         New-Item -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows" -Name "Windows Search"
     } 
     Set-ItemProperty -Path $path -Name "AllowCortana" -Value 0 
-    #Restart Explorer to change it immediately    
+    #Restart Explorer to change it effect immediately    
     Stop-Process -name explorer
 }
 
@@ -21,5 +21,5 @@ Set-ExecutionPolicy UnRestricted -Force
 
 DisableCortana
 
-# revert the execution policy back to normal
+# revert the execution policy back to normal mode
 Set-ExecutionPolicy Restricted -Force
