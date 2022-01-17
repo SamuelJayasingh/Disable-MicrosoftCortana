@@ -6,6 +6,7 @@ When creating a Windows 10 master image, you may want to disable it. You can dis
 
 PS > New-Item -Path 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\' -Name 'Windows Search' | Out-Null
 PS > New-ItemProperty -Path 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\Windows Search' -Name 'AllowCortana' -PropertyType DWORD -Value '0' | Out-Null
+
 This transforms the Cortana box into a “Search Windows” box.
 
 Note: you can also disable Cortana by GPO.
