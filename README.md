@@ -1,6 +1,6 @@
 # Disable Microsoft Cortana
 
-Cortana is included in Windows 10. (More information about Cortana: https://support.microsoft.com/en-us/help/17214/windows-10-what-is
+Cortana is included in Windows 10. [More information about Cortana.] (https://support.microsoft.com/en-us/help/17214/windows-10-what-is)
 
 When creating a Windows 10 master image, you may want to disable it. You can disable Cortana using PowerShell with a registry key:
 
