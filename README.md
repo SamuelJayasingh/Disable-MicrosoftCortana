@@ -31,7 +31,7 @@ Computer Configuration
 Done! Cortana should be disabled now, whenever you use the search bar, it will be the good old search bar, you won't see the cortana icon
 
 ##
-- If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
+- If you have any suggestions to this README or about the Script, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
 
 Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
