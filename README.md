@@ -1,4 +1,4 @@
-# Disable-Cortana
+# Disable Microsoft Cortana
 
 Cortana is included in Windows 10. (More information about Cortana: https://support.microsoft.com/en-us/help/17214/windows-10-what-is)
 
