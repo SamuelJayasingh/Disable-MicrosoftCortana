@@ -32,7 +32,6 @@ Done! Cortana should be disabled now, whenever you use the search bar, it will b
 
 ##
 - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
-- 
 - Credits: [Samuel Jayasingh](https://github.com/SamuelJayasingh)
 
 Last Edited on: 18/01/2022
