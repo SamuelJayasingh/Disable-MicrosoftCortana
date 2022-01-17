@@ -11,15 +11,15 @@ PS > New-ItemProperty -Path 'HKLM:\SOFTWARE\Policies\Microsoft\Windows\Windows S
 
 This transforms the Cortana box into a “Search Windows” box.
 
-Note: you can also disable Cortana by GPO.
+Note: you can also disable Cortana by GPO(Group Policy Object).
 
-Navigate to:
+Just Navigate to:
 
 Computer Configuration
 > Administrative Templates
 >> Windows Components
 >>> Search.
-Set the “Allow Cortana” option to “Disabled”
+>>>> Set the “Allow Cortana” option to “Disabled”
 
 ## Alternative Way 
 
