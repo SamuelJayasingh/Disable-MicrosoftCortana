@@ -24,11 +24,11 @@ Computer Configuration
 ## Alternative Way 
 
 
-Just Copy the "Disable-MCortana.ps1" Script in my repo and ctrl+v in your notepad
+> Just Copy the "Disable-MCortana.ps1" Script in my repo and ctrl+v in your notepad
 
-Save the File as "Disable-MCortana.ps1".
+>> Save the File as "Disable-MCortana.ps1".
 
-Now Right click on the "Disable-MCortana.ps1" and select "Run with PowerShell"
+>>> Now Right click on the "Disable-MCortana.ps1" and select "Run with PowerShell"
 
 Done! Cortana should be disabled now, whenever you use the search bar, it will be the good old search bar, you won't see the cortana icon
 
