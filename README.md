@@ -31,3 +31,6 @@ Save the File as "Disable-MCortana.ps1".
 Now Right click on the "Disable-MCortana.ps1" and select "Run with PowerShell"
 
 Done! Cortana should be disabled now, whenever you use the search bar, it will be the good old search bar, you won't see the cortana icon
+
+##
+- If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬 )
